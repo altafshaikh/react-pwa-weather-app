@@ -10,6 +10,20 @@
 
 [![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Weather%20App%20By%20Altaf%20at)](https://progressiveapp.store/pwa/Weather-App-By-Altaf)
 
+## Screenshots
+
+### Desktop View 
+
+![deskstop view](https://github.com/ialtafshaikh/static-files/blob/master/Weather%20PWA%20SS-%20React/WPWA-Desktop.png)
+
+### Mobile View
+
+![mobile view](https://github.com/ialtafshaikh/static-files/blob/master/Weather%20PWA%20SS-%20React/WPWA-Mobile.png)
+
+### Offline View
+
+![Offline mode](https://github.com/ialtafshaikh/static-files/blob/master/Weather%20PWA%20SS-%20React/WPWA-Offline.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
